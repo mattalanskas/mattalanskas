@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mattalanskas
-- 👀 I’m interested in C/C# programs and exploring the software world
-- 🌱 I’m currently learning Xamarin C#
+- 👋 Hi, I’m @mattalanskas, a software engineer at ISSPRO in Portland, OR 
+- 👀 I’m an Electrical Engineer graduate trained in C/C++/C# programs and wanting to explore the software world
+- 🌱 I’m currently learning how to create apps through Xamarin using C#
 - 📫 How to reach me malanskas33@yahoo.com
 
 <!---
